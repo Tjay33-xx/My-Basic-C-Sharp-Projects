@@ -1,7 +1,4 @@
-# My-Basic-C-Sharp-Projects
-This repository is for my C-Sharp-Projects
-
-# C# Full Stack Development Projects
+C# Full Stack Development Projects
 
 This repository contains projects completed during my ASP.NET MVC and Entity Framework training.
 
@@ -26,8 +23,7 @@ A web application built using ASP.NET Core MVC and Entity Framework that calcula
 - Razor Views
 
 ---
-
-## 🎓 Code First Console App
+Code First Console App
 
 A simple Entity Framework Code-First console application that creates a Student database and inserts a record.
 
